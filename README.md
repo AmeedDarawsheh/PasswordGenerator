@@ -17,7 +17,7 @@ PasswordGenerator is a web application designed to generate secure passwords. It
 You can access the application directly via GitHub Pages: 
 
 
-[![Password Generator](https://img.shields.io/badge/PasswordRandomGenerator-ClickHere-green)](https://ameeddarawsheh.github.io/PasswordRandomGenerator/)
+[![Password Generator](https://img.shields.io/badge/Password%20Generator-Click%20Me-red)](https://ameeddarawsheh.github.io/PasswordRandomGenerator/)
 
 
 
