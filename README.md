@@ -14,10 +14,14 @@ PasswordGenerator is a web application designed to generate secure passwords. It
 - JavaScript
 
 ## Usage
-You can access the application directly via GitHub Pages:
-[PasswordGenerator](https://AmeedDarawsheh.github.io/PasswordGenerator/)
+You can access the application directly via GitHub Pages: 
+
+
+[![Password Generator](https://img.shields.io/badge/PasswordRandomGenerator-ClickHere-green)](https://ameeddarawsheh.github.io/PasswordRandomGenerator/)
+
+
 
 Alternatively, you can run it locally:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/AmeedDarawsheh/PasswordGenerator.git
+   git clone https://github.com/AmeedDarawsheh/PasswordRandomGenerator.git
